@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="center">
+<h2>Hi There! 👋</h2>
+<a href="https://linkedin.com/in/tristan-weij-076070194/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=0072b1&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Flextur" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<br />
+<br />
 
-<!--
-**TristanWeij/TristanWeij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you! I'm Tristan, a 20 y/o back-end developer based in Rotterdam, The Netherlands. 
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TristanWeij&include_all_commits=true&count_private=true&show_icons=true&theme=prussian" alt="Github Stats">
+<br />
+<br />
+
+  
+</div>
