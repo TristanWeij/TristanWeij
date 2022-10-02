@@ -9,13 +9,12 @@
 <br />
 <br />
 
-Nice to meet you! I'm Tristan, a 20 y/o back-end developer based in Rotterdam, The Netherlands. 
-
+Nice to meet you! I'm Tristan, a 20 y/o back-end developer based in Rotterdam, The Netherlands.
 <br />
 
+My main focus lies on the craft of web-applications using the **[Laravel](https://laravel.com/)** framework.
+<br />
+
+<h2>GitHub stats 🔎</h2>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TristanWeij&include_all_commits=true&count_private=true&show_icons=true&theme=prussian" alt="Github Stats">
-<br />
-<br />
-
-  
 </div>
