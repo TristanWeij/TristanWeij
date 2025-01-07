@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  Nice to meet you! I'm Tristan, a 21 y/o back-end developer based in Rotterdam, The Netherlands.
+  Nice to meet you! I'm Tristan, a 22 y/o back-end developer based in Rotterdam, The Netherlands.
   <br /> <br />
   My main focus lies on the craft of web-applications using various PHP frameworks like:
 
